@@ -1,0 +1,10 @@
+C:\Users\Owners\Desktop\CIS162 HW\Penny To Dollar Converter\Penny To Dollar Converter\bin\Debug\Penny To Dollar Converter.exe.config
+C:\Users\Owners\Desktop\CIS162 HW\Penny To Dollar Converter\Penny To Dollar Converter\bin\Debug\Penny To Dollar Converter.exe
+C:\Users\Owners\Desktop\CIS162 HW\Penny To Dollar Converter\Penny To Dollar Converter\bin\Debug\Penny To Dollar Converter.pdb
+C:\Users\Owners\Desktop\CIS162 HW\Penny To Dollar Converter\Penny To Dollar Converter\obj\Debug\Penny To Dollar Converter.csprojResolveAssemblyReference.cache
+C:\Users\Owners\Desktop\CIS162 HW\Penny To Dollar Converter\Penny To Dollar Converter\obj\Debug\Penny_To_Dollar_Converter.Form1.resources
+C:\Users\Owners\Desktop\CIS162 HW\Penny To Dollar Converter\Penny To Dollar Converter\obj\Debug\Penny_To_Dollar_Converter.Properties.Resources.resources
+C:\Users\Owners\Desktop\CIS162 HW\Penny To Dollar Converter\Penny To Dollar Converter\obj\Debug\Penny To Dollar Converter.csproj.GenerateResource.Cache
+C:\Users\Owners\Desktop\CIS162 HW\Penny To Dollar Converter\Penny To Dollar Converter\obj\Debug\Penny To Dollar Converter.csproj.CoreCompileInputs.cache
+C:\Users\Owners\Desktop\CIS162 HW\Penny To Dollar Converter\Penny To Dollar Converter\obj\Debug\Penny To Dollar Converter.exe
+C:\Users\Owners\Desktop\CIS162 HW\Penny To Dollar Converter\Penny To Dollar Converter\obj\Debug\Penny To Dollar Converter.pdb
